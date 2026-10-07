@@ -1,7 +1,6 @@
-# Ignore images folder
-images/
+.DS_Store
 
-# Optional: ignore other large files
+# Large source files (compressed copies live in images/)
 *.mp4
 *.mov
 *.zip
